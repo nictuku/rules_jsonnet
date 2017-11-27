@@ -616,6 +616,6 @@ def jsonnet_repositories():
           "http://mirror.bazel.build/github.com/google/jsonnet/archive/v0.9.5.tar.gz",
           "https://github.com/google/jsonnet/archive/v0.9.5.tar.gz",
       ],
-      sha256 = "404669fe0b392b634ebec202d3433391a4a5db2c8e6589d20668ce1796d40eb9",
+      sha256 = "f504b6079882a18f0e8304f9e230f04eff70c2f0fb94a18fc26cbf989c7d838b",
       strip_prefix = "jsonnet-0.9.5",
   )
